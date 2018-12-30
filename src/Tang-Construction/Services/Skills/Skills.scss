@@ -1,0 +1,17 @@
+
+$white-color: #ffffff;
+$black-color: #000000;
+
+#skills {
+
+  background-color: $white-color;
+   padding-top: 50px;
+
+  h2 {
+   color: $black-color;
+  }
+
+  article {padding-top: 30px;}
+
+  p { color: $black-color;}
+}

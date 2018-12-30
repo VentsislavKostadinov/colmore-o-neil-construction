@@ -1,0 +1,12 @@
+#our-work {
+  background-color: #ffffff;
+  padding-top: 70px;
+}
+#our-work .img-fluid {
+  height: auto !important;
+}
+#our-work h3, #our-work p {
+  padding-top: 40px;
+}
+
+/*# sourceMappingURL=OurWork.css.map */

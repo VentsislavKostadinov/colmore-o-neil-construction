@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,UAAW;EAET,gBAAgB,EAAE,OAAO;EACzB,WAAW,EAAE,IAAI;EAEjB,qBAAW;IAAC,MAAM,EAAE,eAAe;EAEnC,kBAAQ;IAEN,WAAW,EAAE,IAAI",
+"sources": ["Solutions.scss"],
+"names": [],
+"file": "Solutions.css"
+}

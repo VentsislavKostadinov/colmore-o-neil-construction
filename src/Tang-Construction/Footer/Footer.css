@@ -1,0 +1,12 @@
+footer {
+  background-color: #000000;
+  color: #ffffff; }
+  footer #foot-paragraph {
+    padding-top: 10px; }
+  footer .fab {
+    margin: auto;
+    font-size: 30px;
+    color: #ffffff;
+    padding: 7px; }
+
+/*# sourceMappingURL=Footer.css.map */

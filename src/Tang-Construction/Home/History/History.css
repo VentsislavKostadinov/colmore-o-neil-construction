@@ -1,0 +1,34 @@
+#history {
+  background-color: #ffffff;
+  color: #000000;
+  padding-bottom: 70px;
+}
+#history h2 {
+  padding-top: 50px;
+  letter-spacing: 1px;
+}
+#history #historyHr {
+  border-color: #D0D0D0;
+  border-width: 1px;
+  max-width: 50px;
+}
+#history p {
+  width: 70%;
+  margin: auto;
+  color: #6B6B6B;
+}
+#history article {
+  margin-top: 50px;
+}
+#history article header {
+  padding-top: 15px;
+}
+#history article .fas {
+  font-size: 60px;
+}
+#history article .article-par {
+  color: #6B6B6B;
+  width: 100%;
+}
+
+/*# sourceMappingURL=History.css.map */
