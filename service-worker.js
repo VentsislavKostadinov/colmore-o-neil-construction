@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/colmore-o-neil-construction/precache-manifest.0efe27b03015aee94ce9facd3b665554.js"
+  "/colmore-o-neil-construction/precache-manifest.685beac3f539b4bb216230482e7149e8.js"
 );
 
 workbox.clientsClaim();
